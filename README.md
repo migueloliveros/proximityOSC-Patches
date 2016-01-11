@@ -3,5 +3,6 @@
 
 [Requires Pure Data Extended]
 
-More info at: 
++ info @: 
 www.migueloliveros.org/2015/12/nonregion.html
+
